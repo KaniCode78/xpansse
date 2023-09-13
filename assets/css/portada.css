@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.logo_portada{
+    height: 840px;
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+    .logo_portada {
+      width: 100%;
+      height: 100%;
+    }
+  }

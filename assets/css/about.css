@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+
+.about_titulo {
+    padding: 2.5%;
+    font-size: 2rem;
+    color: blue;
+}
+
+.about_text{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    font-size: 1.5rem;
+}
